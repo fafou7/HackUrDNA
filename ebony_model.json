@@ -1,0 +1,475 @@
+{
+  "length": 21030,
+  "positions": [
+    {
+      "pos": 499,
+      "dark_allele": "G",
+      "light_allele": "A"
+    },
+    {
+      "pos": 1599,
+      "dark_allele": "T",
+      "light_allele": "C"
+    },
+    {
+      "pos": 1787,
+      "dark_allele": "G",
+      "light_allele": "A"
+    },
+    {
+      "pos": 2806,
+      "dark_allele": "G",
+      "light_allele": "T"
+    },
+    {
+      "pos": 3255,
+      "dark_allele": "T",
+      "light_allele": "A"
+    },
+    {
+      "pos": 3272,
+      "dark_allele": "A",
+      "light_allele": "G"
+    },
+    {
+      "pos": 3290,
+      "dark_allele": "T",
+      "light_allele": "G"
+    },
+    {
+      "pos": 3295,
+      "dark_allele": "T",
+      "light_allele": "A"
+    },
+    {
+      "pos": 3297,
+      "dark_allele": "A",
+      "light_allele": "C"
+    },
+    {
+      "pos": 3307,
+      "dark_allele": "A",
+      "light_allele": "T"
+    },
+    {
+      "pos": 3318,
+      "dark_allele": "A",
+      "light_allele": "T"
+    },
+    {
+      "pos": 3346,
+      "dark_allele": "G",
+      "light_allele": "C"
+    },
+    {
+      "pos": 3393,
+      "dark_allele": "A",
+      "light_allele": "T"
+    },
+    {
+      "pos": 3396,
+      "dark_allele": "T",
+      "light_allele": "C"
+    },
+    {
+      "pos": 3436,
+      "dark_allele": "C",
+      "light_allele": "T"
+    },
+    {
+      "pos": 3545,
+      "dark_allele": "A",
+      "light_allele": "G"
+    },
+    {
+      "pos": 3547,
+      "dark_allele": "C",
+      "light_allele": "G"
+    },
+    {
+      "pos": 3598,
+      "dark_allele": "G",
+      "light_allele": "T"
+    },
+    {
+      "pos": 3600,
+      "dark_allele": "T",
+      "light_allele": "C"
+    },
+    {
+      "pos": 3755,
+      "dark_allele": "C",
+      "light_allele": "T"
+    },
+    {
+      "pos": 3773,
+      "dark_allele": "T",
+      "light_allele": "A"
+    },
+    {
+      "pos": 3791,
+      "dark_allele": "T",
+      "light_allele": "G"
+    },
+    {
+      "pos": 4659,
+      "dark_allele": "C",
+      "light_allele": "A"
+    },
+    {
+      "pos": 5367,
+      "dark_allele": "G",
+      "light_allele": "A"
+    },
+    {
+      "pos": 6053,
+      "dark_allele": "A",
+      "light_allele": "G"
+    },
+    {
+      "pos": 6080,
+      "dark_allele": "A",
+      "light_allele": "T"
+    },
+    {
+      "pos": 6083,
+      "dark_allele": "G",
+      "light_allele": "A"
+    },
+    {
+      "pos": 6086,
+      "dark_allele": "A",
+      "light_allele": "C"
+    },
+    {
+      "pos": 6088,
+      "dark_allele": "A",
+      "light_allele": "G"
+    },
+    {
+      "pos": 6089,
+      "dark_allele": "T",
+      "light_allele": "C"
+    },
+    {
+      "pos": 6092,
+      "dark_allele": "A",
+      "light_allele": "T"
+    },
+    {
+      "pos": 6094,
+      "dark_allele": "T",
+      "light_allele": "C"
+    },
+    {
+      "pos": 6095,
+      "dark_allele": "T",
+      "light_allele": "A"
+    },
+    {
+      "pos": 6099,
+      "dark_allele": "T",
+      "light_allele": "C"
+    },
+    {
+      "pos": 6148,
+      "dark_allele": "C",
+      "light_allele": "A"
+    },
+    {
+      "pos": 6184,
+      "dark_allele": "A",
+      "light_allele": "G"
+    },
+    {
+      "pos": 6701,
+      "dark_allele": "G",
+      "light_allele": "C"
+    },
+    {
+      "pos": 6723,
+      "dark_allele": "C",
+      "light_allele": "T"
+    },
+    {
+      "pos": 6753,
+      "dark_allele": "T",
+      "light_allele": "A"
+    },
+    {
+      "pos": 6765,
+      "dark_allele": "A",
+      "light_allele": "C"
+    },
+    {
+      "pos": 6821,
+      "dark_allele": "C",
+      "light_allele": "A"
+    },
+    {
+      "pos": 6836,
+      "dark_allele": "T",
+      "light_allele": "C"
+    },
+    {
+      "pos": 6839,
+      "dark_allele": "G",
+      "light_allele": "C"
+    },
+    {
+      "pos": 6848,
+      "dark_allele": "A",
+      "light_allele": "G"
+    },
+    {
+      "pos": 6893,
+      "dark_allele": "G",
+      "light_allele": "A"
+    },
+    {
+      "pos": 6914,
+      "dark_allele": "A",
+      "light_allele": "G"
+    },
+    {
+      "pos": 6974,
+      "dark_allele": "C",
+      "light_allele": "T"
+    },
+    {
+      "pos": 7041,
+      "dark_allele": "A",
+      "light_allele": "G"
+    },
+    {
+      "pos": 7142,
+      "dark_allele": "T",
+      "light_allele": "A"
+    },
+    {
+      "pos": 7168,
+      "dark_allele": "A",
+      "light_allele": "T"
+    },
+    {
+      "pos": 7411,
+      "dark_allele": "C",
+      "light_allele": "T"
+    },
+    {
+      "pos": 7602,
+      "dark_allele": "T",
+      "light_allele": "C"
+    },
+    {
+      "pos": 7639,
+      "dark_allele": "C",
+      "light_allele": "T"
+    },
+    {
+      "pos": 8172,
+      "dark_allele": "C",
+      "light_allele": "T"
+    },
+    {
+      "pos": 8192,
+      "dark_allele": "T",
+      "light_allele": "A"
+    },
+    {
+      "pos": 8213,
+      "dark_allele": "A",
+      "light_allele": "T"
+    },
+    {
+      "pos": 8251,
+      "dark_allele": "C",
+      "light_allele": "A"
+    },
+    {
+      "pos": 8288,
+      "dark_allele": "A",
+      "light_allele": "C"
+    },
+    {
+      "pos": 8310,
+      "dark_allele": "G",
+      "light_allele": "T"
+    },
+    {
+      "pos": 8354,
+      "dark_allele": "G",
+      "light_allele": "T"
+    },
+    {
+      "pos": 8480,
+      "dark_allele": "C",
+      "light_allele": "G"
+    },
+    {
+      "pos": 8482,
+      "dark_allele": "G",
+      "light_allele": "A"
+    },
+    {
+      "pos": 8565,
+      "dark_allele": "A",
+      "light_allele": "G"
+    },
+    {
+      "pos": 8566,
+      "dark_allele": "G",
+      "light_allele": "A"
+    },
+    {
+      "pos": 8611,
+      "dark_allele": "C",
+      "light_allele": "A"
+    },
+    {
+      "pos": 9439,
+      "dark_allele": "T",
+      "light_allele": "A"
+    },
+    {
+      "pos": 9889,
+      "dark_allele": "G",
+      "light_allele": "A"
+    },
+    {
+      "pos": 9894,
+      "dark_allele": "T",
+      "light_allele": "C"
+    },
+    {
+      "pos": 10207,
+      "dark_allele": "C",
+      "light_allele": "A"
+    },
+    {
+      "pos": 10381,
+      "dark_allele": "A",
+      "light_allele": "C"
+    },
+    {
+      "pos": 11076,
+      "dark_allele": "C",
+      "light_allele": "T"
+    },
+    {
+      "pos": 11113,
+      "dark_allele": "C",
+      "light_allele": "T"
+    },
+    {
+      "pos": 11224,
+      "dark_allele": "A",
+      "light_allele": "G"
+    },
+    {
+      "pos": 11371,
+      "dark_allele": "A",
+      "light_allele": "T"
+    },
+    {
+      "pos": 11458,
+      "dark_allele": "A",
+      "light_allele": "G"
+    },
+    {
+      "pos": 11844,
+      "dark_allele": "C",
+      "light_allele": "G"
+    },
+    {
+      "pos": 11902,
+      "dark_allele": "G",
+      "light_allele": "A"
+    },
+    {
+      "pos": 11990,
+      "dark_allele": "A",
+      "light_allele": "G"
+    },
+    {
+      "pos": 12803,
+      "dark_allele": "T",
+      "light_allele": "A"
+    },
+    {
+      "pos": 13301,
+      "dark_allele": "T",
+      "light_allele": "C"
+    },
+    {
+      "pos": 14486,
+      "dark_allele": "T",
+      "light_allele": "G"
+    },
+    {
+      "pos": 14613,
+      "dark_allele": "C",
+      "light_allele": "T"
+    },
+    {
+      "pos": 15784,
+      "dark_allele": "T",
+      "light_allele": "C"
+    },
+    {
+      "pos": 16430,
+      "dark_allele": "G",
+      "light_allele": "A"
+    },
+    {
+      "pos": 16455,
+      "dark_allele": "A",
+      "light_allele": "C"
+    },
+    {
+      "pos": 17036,
+      "dark_allele": "G",
+      "light_allele": "A"
+    },
+    {
+      "pos": 17139,
+      "dark_allele": "A",
+      "light_allele": "G"
+    },
+    {
+      "pos": 17320,
+      "dark_allele": "T",
+      "light_allele": "C"
+    },
+    {
+      "pos": 17797,
+      "dark_allele": "T",
+      "light_allele": "C"
+    },
+    {
+      "pos": 17814,
+      "dark_allele": "A",
+      "light_allele": "G"
+    },
+    {
+      "pos": 18283,
+      "dark_allele": "T",
+      "light_allele": "C"
+    },
+    {
+      "pos": 19337,
+      "dark_allele": "T",
+      "light_allele": "C"
+    },
+    {
+      "pos": 19360,
+      "dark_allele": "A",
+      "light_allele": "T"
+    },
+    {
+      "pos": 20204,
+      "dark_allele": "G",
+      "light_allele": "A"
+    }
+  ]
+}
