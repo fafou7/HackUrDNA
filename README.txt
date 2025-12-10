@@ -41,3 +41,52 @@ Combine training sequences + your reference window:
 
 ```bash
 cat ebony_training.fasta ref_ebony.fasta > ebony_training_plus_ref.fasta
+
+## FASTA files in this repo
+
+This repo includes several small FASTA files as example inputs and intermediates.  
+They are all subsets or alignments around the **ebony** region from *Drosophila melanogaster*.
+
+### Core example data
+
+- **`ebony_training.fasta`**  
+  Raw, unaligned ebony-region sequences from **21 natural lines** used as training data.  
+  These are the EF114370–EF114390 sequences from:  
+  Pool & Aquadro (2007) *The genetic basis of adaptive pigmentation variation in Drosophila melanogaster*.
+
+- **`ref_ebony.fasta`**  
+  Example ebony-region sequence extracted from the **reference D. melanogaster genome**  
+  (chromosome 3R, ~8.39–8.42 Mb).  
+  This is treated as a “query” sequence when we ask,  
+  *“Does the reference look more like the dark or light ebony haplotypes?”*
+
+### Alignments
+
+- **`ebony_training_aligned.fasta`**  
+  MAFFT alignment of the 21 training sequences only  
+  (Uganda = dark, Kenya = light).  
+  Useful if you just want to re-run or inspect the alignment of the training set.
+
+- **`ebony_training_plus_ref.fasta`**  
+  Unaligned FASTA containing:
+  - the 21 training sequences, plus  
+  - the reference ebony sequence from `ref_ebony.fasta`.  
+  This is the input that was sent to MAFFT to produce the joint alignment below.
+
+- **`ebony_training_plus_ref_aligned.fasta`**  
+  MAFFT alignment of the 21 training sequences **plus** the reference ebony sequence.  
+  This is the main aligned file used by `ebony_classifier.py train` to:
+  - identify informative positions that differ between dark and light lines, and  
+  - later score the reference sequence.
+
+- **`ebony_plus_ref_aligned.fasta`**  
+  Earlier/alternate alignment of training + reference sequences kept as an intermediate.  
+  Not required for the basic pipeline, but left here as a reference/example.
+
+### Single-sequence alignment snippets
+
+- **`K60_aligned.fasta`**, **`U70_aligned.fasta`**  
+  Individual aligned sequences (extracted from the multi-FASTA) for specific lines  
+  used during testing and debugging. They can be used with the `score` command as  
+  minimal examples of how to score one aligned sequence at a time.
+
