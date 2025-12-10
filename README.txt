@@ -90,3 +90,11 @@ They are all subsets or alignments around the **ebony** region from *Drosophila 
   used during testing and debugging. They can be used with the `score` command as  
   minimal examples of how to score one aligned sequence at a time.
 
+You should get something like:
+
+K60 → darkness_score close to 0
+(more matches to the “light” alleles, consistent with provided gene)
+
+U70 → darkness_score close to 1
+(more matches to the “dark” alleles, consistent with provided gene)
+
